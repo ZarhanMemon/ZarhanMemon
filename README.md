@@ -20,8 +20,8 @@ Connect with friends and practice languages with live chat and messaging.
 - User authentication and profile management  
 - Friend requests and live presence indicator
 
-🔗 *Live Demo:* [Coming Soon]  
-🔗 *GitHub Repo:* [Chatty App Repo](#)
+🔗 **Live Demo:** [chatty-video-chat.onrender.com](https://chatty-video-chat.onrender.com)  
+🔗 **GitHub Repo:** [Chatty App Repo](#)
 
 ---
 
@@ -35,11 +35,14 @@ Connect with friends and practice languages with live chat and messaging.
 #### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 
 #### 🔧 Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 #### 🛠️ Tools
