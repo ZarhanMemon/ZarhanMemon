@@ -12,7 +12,10 @@
 #### 🗨️ Chatty App — Real-Time Video & Messaging Platform  
 Connect with friends and practice languages with live chat and messaging.
 
-![Chatty Screenshot](./Screenshot%202025-05-11%20211157.png)
+<video width="320" height="240" controls>
+  <source src="path/to/your/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **Tech Stack:** React • Node.js • Express • MongoDB • WebSockets  
 **Features:**  
