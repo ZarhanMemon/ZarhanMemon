@@ -43,8 +43,7 @@
 ### 📂 **Projects**
 
 - **[Chatty App](https://chatty-video-chat.onrender.com)**: A real-time video chat and messaging platform built with React and Node.js.
-- **[BMI Calculator](#)**: A simple app to calculate Body Mass Index (BMI) using React.
-
+-  Comming Soon ...
 ---
 
 ### 📚 **Learning & Goals**
