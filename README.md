@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Zarhan Memon!
 
-Email Me 👉 ✉️ **ironmamred118@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ironmanred118@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## IT Student @SAOE | MERN Stack & DSA Enthusiast | Building Projects | Open to Internships | Let’s Connect
 
