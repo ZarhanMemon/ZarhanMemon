@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Zarhan Memon!
 
-Email Me 👉 ✉️ **memonzarhan99@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **memonzarhan99@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## IT Student @SAOE | MERN Stack & DSA Enthusiast | Building Projects | Open to Internships | Let’s Connect
 
