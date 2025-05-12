@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Zarhan Memon!
 
+## IT Student @SAOE | MERN Stack & DSA Enthusiast | Building Projects | Open to Internships | Let’s Connect
+
 🎓 1st Year IT Engineering Student at Sinhgad Academy of Engineering (SAOE), Pune, India.  
 💻 Aspiring Full-Stack Developer focused on the **MERN stack** (MongoDB, Express, React, Node.js).  
 🚀 Currently learning **Next.js** and building real-world projects using modern web technologies.  
@@ -72,20 +74,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ZarhanMemon&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarhanMemon&theme=dark&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ZarhanMemon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-contributor-stats.vercel.app/api?username=ZarhanMemon&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZarhanMemon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
