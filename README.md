@@ -12,10 +12,11 @@
 #### 🗨️ Chatty App — Real-Time Video & Messaging Platform  
 Connect with friends and practice languages with live chat and messaging.
 
-<video width="320" height="240" controls>
-  <source src="path/to/your/video.mp4" type="video/mp4">
+<video width="640" height="360" controls>
+  <source src="./videos/2024-12-18%2021-33-31.mkv" type="video/x-matroska">
   Your browser does not support the video tag.
 </video>
+
 
 **Tech Stack:** React • Node.js • Express • MongoDB • WebSockets  
 **Features:**  
@@ -32,7 +33,6 @@ Connect with friends and practice languages with live chat and messaging.
 
 #### 🚀 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
 #### 🎨 Frontend
