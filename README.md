@@ -1,6 +1,8 @@
-# 👋 Hey, I'm Zarhan Memon!
+## 👋 Hey, I'm Zarhan Memon!
 
-## IT Student @SAOE | MERN Stack & DSA Enthusiast | Building Projects | Open to Internships | Let’s Connect
+Email Me 👉 ✉️ **memonzarhan99@live.com** For Collaboration/Project or Anything Else. 😊😊
+
+# IT Student @SAOE | MERN Stack & DSA Enthusiast | Building Projects | Open to Internships | Let’s Connect
 
 🎓 1st Year IT Engineering Student at Sinhgad Academy of Engineering (SAOE), Pune, India.  
 💻 Aspiring Full-Stack Developer focused on the **MERN stack** (MongoDB, Express, React, Node.js).  
@@ -65,6 +67,14 @@
 - 📈 Improving **DSA skills** with daily practice.
 - 🛠️ Building full-stack **MERN-based portfolio projects**.
 - 🧠 Developing consistency, problem-solving, and clean coding habits.
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
