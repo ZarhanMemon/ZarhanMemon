@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Zarhan Memon!
 
-Email Me 👉 ✉️ **memonzarhan99@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ironmamred118@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## IT Student @SAOE | MERN Stack & DSA Enthusiast | Building Projects | Open to Internships | Let’s Connect
 
@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **memonzarhan99@gmail.com** For Collaboration/Project or An
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zarhan.07)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zarhan-memon-bb2b5435a)  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ZMemon63982)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:memonzarhan99@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zarhan.07)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zarhan-memon-bb2b5435a)  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ZMemon63982)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ironmanred118@gmail.com)
 
 ---
 
