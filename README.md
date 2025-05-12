@@ -12,15 +12,11 @@
 #### 🗨️ Chatty App — Real-Time Video & Messaging Platform  
 Connect with friends and practice languages with live chat and messaging.
 
-<video width="640" height="360" controls>
-  <source src="./videos/2024-12-18%2021-33-31.mkv" type="video/x-matroska">
-  Your browser does not support the video tag.
-</video>
-
 
 **Tech Stack:** React • Node.js • Express • MongoDB • WebSockets  
 **Features:**  
 - Real-time messaging with friends  
+- Video chat with language partners  
 - User authentication and profile management  
 - Friend requests and live presence indicator
 
@@ -32,32 +28,72 @@ Connect with friends and practice languages with live chat and messaging.
 ### 🛠️ Tech Stack & Tools
 
 #### 🚀 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
 #### 🎨 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
 
 #### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 #### 🛠️ Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+---
+
+### 📌 Work
+
+🔭 **I’m currently working on:**  
+- **Project Name:** Chatty App  
+- **Project Link:** [Chatty App Repo](#)
+
+👯 **I’m looking to collaborate on:**  
+- **Project Name:** Open Source Web Projects  
+- **Project Link:** [My GitHub](https://github.com/zarhan)
+
+🤝 **I’m looking for help with:**  
+- **Project Name:** Pass/OP  
+- **Project Link:** [My GitHub](https://github.com/zarhan)
+
+🌱 **I’m currently learning:**  
+- Frameworks: Next.js  
+- Courses: Data Structures & Algorithms, MERN Stack
+
+💬 **Ask me about:**  
+- React  
+- MongoDB  
+- Nestjs
+
+📫 **How to reach me:**  
+- Example: [example@gmail.com](mailto:example@gmail.com)
+
+👨‍💻 **All of my projects are available at:**  
+- [My Portfolio](#)
+
+📝 **I regularly write articles on:**  
+- [My Blog](#)
+
+📄 **Know about my experiences:**  
+- [My Resume](#)
+
+⚡ **Fun fact:**  
+I think I am funny.
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/zarhan-memon-bb2b5435a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/zarhan-memon-bb2b5435a)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:zarhanmemon.dev@gmail.com)
 
 ---
