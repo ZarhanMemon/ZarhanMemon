@@ -51,50 +51,57 @@ Connect with friends and practice languages with live chat and messaging.
 
 ---
 
+
 ### 📌 Work
 
 🔭 **I’m currently working on:**  
 - **Project Name:** Chatty App  
 - **Project Link:** [Chatty App Repo](#)
 
+
 👯 **I’m looking to collaborate on:**  
 - **Project Name:** Open Source Web Projects  
 - **Project Link:** [My GitHub](https://github.com/zarhan)
+
 
 🤝 **I’m looking for help with:**  
 - **Project Name:** Pass/OP  
 - **Project Link:** [My GitHub](https://github.com/zarhan)
 
+
 🌱 **I’m currently learning:**  
 - Frameworks: Next.js  
 - Courses: Data Structures & Algorithms, MERN Stack
+
 
 💬 **Ask me about:**  
 - React  
 - MongoDB  
 - Nestjs
 
+
+
 📫 **How to reach me:**  
-- Example: [example@gmail.com](mailto:example@gmail.com)
+-  [memonzarhan99@gmail.com](mailto:memonzarhan99@gmail.com)
+-  [ironmanred118@gmail.com](mailto:ironmanred118@gmail.com)
 
 👨‍💻 **All of my projects are available at:**  
 - [My Portfolio](#)
-
-📝 **I regularly write articles on:**  
-- [My Blog](#)
 
 📄 **Know about my experiences:**  
 - [My Resume](#)
 
 ⚡ **Fun fact:**  
-I think I am funny.
+I think I am funny  & I GOOD GAMER
+
 
 ---
+
 
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/zarhan-memon-bb2b5435a)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:zarhanmemon.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:memonzarhan99@gmail.com)
 
 ---
 
