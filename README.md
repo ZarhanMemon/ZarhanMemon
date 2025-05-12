@@ -84,10 +84,8 @@
 
 ---
 
-## 🔝 Top Contributed Repositories
-
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ZarhanMemon&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 ## 🧮 Visitor Count
