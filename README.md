@@ -55,7 +55,7 @@ Email Me 👉 ✉️ **ironmanred118@gmail.com** For Collaboration/Project or An
 
 - 🔗 [**Chatty App**](https://chatty-video-chat.onrender.com) — Real-time video chat and messaging platform built with React & Node.js.
 
-- 🔗 **Passop Manager** — A powerful password management platform for secure storage and easy accessibility.
+- 🔗 [**Passop Manager**](https://passop-manager.onrender.com) — A powerful password management platform for secure storage and easy accessibility.
 
 - More coming soon...
 
