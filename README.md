@@ -67,7 +67,7 @@ Email Me 👉 ✉️ **ironmanred118@gmail.com** For Collaboration/Project or An
 
 ## 📚 Learning & Goals
 
-- 🌐 Learning **Next.js** and advanced React concepts.
+- 🌐 Learning subject **OOP** , **Network** ,etc.
 - 📈 Improving **DSA skills** with daily practice.
 - 🛠️ Building full-stack **MERN-based portfolio projects**.
 - 🧠 Developing consistency, problem-solving, and clean coding habits.
