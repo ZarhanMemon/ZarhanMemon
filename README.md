@@ -53,6 +53,10 @@ Email Me 👉 ✉️ **ironmanred118@gmail.com** For Collaboration/Project or An
 
 ## 📂 Projects
 
+- 🔗 [**VibeChat**](https://vibechat-music-chat.onrender.com) — A real-time chat and music streaming app for gamers to avoid switching between tabs. Built using React, Node.js & Socket.IO.
+
+- 🔗 [**Bitlink**](https://bitlink-url-shortener.onrender.com) — A simple and clean URL shortener to convert long links into short ones. Built with Node.js, Express & MongoDB.
+
 - 🔗 [**Chatty App**](https://chatty-video-chat.onrender.com) — Real-time video chat and messaging platform built with React & Node.js.
 
 - 🔗 [**Passop Manager**](https://passop-manager.onrender.com) — A powerful password management platform for secure storage and easy accessibility.
