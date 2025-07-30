@@ -5,8 +5,11 @@ Email Me 👉 ✉️ **ironmanred118@gmail.com** For Collaboration/Project or An
 ## IT Student @SAOE | MERN Stack & DSA Enthusiast | Building Projects | Open to Internships | Let’s Connect
 
 🎓 2nd Year IT Engineering Student at Sinhgad Academy of Engineering (SAOE), Pune, India.  
-💻 Aspiring Full-Stack Developer focused on the **MERN stack** (MongoDB, Express, React, Node.js).  
-🚀 Currently learning **Next.js** and building real-world projects using modern web technologies.  
+
+💻 Aspiring Full-Stack Developer focused on the   **MERN stack** (MongoDB, Express, React, Node.js). 
+ 
+🚀 Currently learning **Next.js** and building real-world projects using modern web technologies. 
+ 
 🎯 Focused on mastering **DSA**, clean code, and building strong developer habits.
 
 ---
