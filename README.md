@@ -67,7 +67,7 @@ Email Me 👉 ✉️ **ironmanred118@gmail.com** For Collaboration/Project or An
 
 - 🔗 [**Passop Manager**](https://passop-manager.onrender.com) — A powerful password management platform for secure storage and easy accessibility.
 
-- More coming soon...
+- More ...
 
 ---
 
