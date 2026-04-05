@@ -6,6 +6,8 @@ Email Me 👉 ✉️ **ironmanred118@gmail.com** For Collaboration/Project or An
 
 🎓 2nd Year IT Engineering Student at Sinhgad Academy of Engineering (SAOE), Pune, India.  
 
+Also having a deep curiosity in Data Analysis and Machine Learning by Scikit-learn.
+
 💻 Aspiring Full-Stack Developer focused on the   **MERN stack** (MongoDB, Express, React, Node.js). 
  
 🚀 Currently learning **Next.js** and building real-world projects using modern web technologies. 
@@ -17,7 +19,7 @@ Email Me 👉 ✉️ **ironmanred118@gmail.com** For Collaboration/Project or An
 ## 🌐 Connect with Me
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zarhan-memon-bb2b5435a)  
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ZMemon63982)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ironmanred118@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:memonzarhan99@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zarhan.07) 
 
 
@@ -75,7 +77,7 @@ Email Me 👉 ✉️ **ironmanred118@gmail.com** For Collaboration/Project or An
 
 - 🌐 Learning subject **OOP** , **Network** ,etc.
 - 📈 Improving **DSA skills** with daily practice.
-- 🛠️ Building full-stack **MERN-based portfolio projects**.
+- 🛠️ Building full-stack **MERN-based and Machine Learning portfolio projects**.
 - 🧠 Developing consistency, problem-solving, and clean coding habits.
 
 ---
