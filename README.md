@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Zarhan Memon!
 
-Email Me 👉 ✉️ **ironmanred118@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **memonzarhan99@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-## IT Student @SAOE | MERN Stack & DSA Enthusiast | Building Projects | Open to Internships | Let’s Connect
+## IT Student @SAOE | AI & Machine Learning techie | MERN Stack & DSA Enthusiast | Building Projects | Open to Internships | Let’s Connect
 
 🎓 2nd Year IT Engineering Student at Sinhgad Academy of Engineering (SAOE), Pune, India.  
 
-Also having a deep curiosity in Data Analysis and Machine Learning by Scikit-learn.
+🤖Also having a deep curiosity in Data Analysis and Machine Learning by Scikit-learn.
 
 💻 Aspiring Full-Stack Developer focused on the   **MERN stack** (MongoDB, Express, React, Node.js). 
  
